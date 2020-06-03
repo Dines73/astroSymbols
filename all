@@ -1,51 +1,63 @@
 {
         "Aries": {
             "svg_symbol": "https://en.wikipedia.org/wiki/File:Aries.svg",
-            "unicode_symbol": "♈"
+            "unicode_symbol": "♈",
+            "ruling_body_classic": "Mars"
         },
         "Taurus": {
             "svg_symbol": "https://en.wikipedia.org/wiki/File:Taurus.svg",
-            "unicode_symbol": "♉"
+            "unicode_symbol": "♉",
+            "ruling_body_classic": "Venus"
         },
         "Gemini": {
             "svg_symbol": "https://en.wikipedia.org/wiki/File:Gemini.svg",
-            "unicode_symbol": "♊"
+            "unicode_symbol": "♊",
+            "ruling_body_classic": "Merkur"
         },
         "Cancer": {
-            "longitude_start": "90",
-            "longitude_end": "120"
+            "svg_symbol": "https://en.wikipedia.org/wiki/File:Cancer.svg",
+            "unicode_symbol": "♋",
+            "ruling_body_classic": "Moon"
         },
         "Leo": {
             "svg_symbol": "https://en.wikipedia.org/wiki/File:Leo.svg",
-            "unicode_symbol": "♌"
+            "unicode_symbol": "♌",
+            "ruling_body_classic": "Sun"
         },
         "Virgo": {
             "svg_symbol": "https://en.wikipedia.org/wiki/File:Virgo.svg",
-            "unicode_symbol": "♍"
+            "unicode_symbol": "♍",
+            "ruling_body_classic": "Merkur"
         },
         "Libra": {
             "svg_symbol": "https://en.wikipedia.org/wiki/File:Libra.svg",
-            "unicode_symbol": "♎"
+            "unicode_symbol": "♎",
+            "ruling_body_classic": "Venus"
         },
         "Scorpio": {
             "svg_symbol": "https://en.wikipedia.org/wiki/File:Scorpio.svg",
-            "unicode_symbol": "♏"
+            "unicode_symbol": "♏",
+            "ruling_body_classic": "Mars"
         },
         "Sagittarius": {
             "svg_symbol": "https://en.wikipedia.org/wiki/File:Sagittarius.svg",
-            "unicode_symbol": "♐"
+            "unicode_symbol": "♐",
+            "ruling_body_classic": "Jupiter"
         },
         "Capricorn": {
             "svg_symbol": "https://en.wikipedia.org/wiki/File:Capricorn.svg",
-            "unicode_symbol": "♑"
+            "unicode_symbol": "♑",
+            "ruling_body_classic": "Saturn"
         },
         "Aquarius": {
             "svg_symbol": "https://en.wikipedia.org/wiki/File:Aquarius.svg",
-            "unicode_symbol": "♒"
+            "unicode_symbol": "♒",
+            "ruling_body_classic": "Saturn"
         },
         "Pisces": {
             "svg_symbol": "https://en.wikipedia.org/wiki/File:Pisces.svg",
-            "unicode_symbol": "♓"
+            "unicode_symbol": "♓",
+            "ruling_body_classic": "Jupiter"
         }
     },
     "eastern_zodiac": {
